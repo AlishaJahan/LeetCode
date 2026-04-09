@@ -16,7 +16,7 @@ const target = 10;
 
 // console.log(twoSum(arr, target));
 
-//====================== optimal approach using hash map========================
+//====================== optimal approach using hash map ========================
 
 function twoSum(arr, target) {
   const map = new Map();
